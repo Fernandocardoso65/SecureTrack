@@ -25,7 +25,8 @@ Projeto com foco em estudos para desenvolvimento backend, APIs REST, persistênc
 - Validação automática dos dados recebidos
 - Persistência utilizando SQLite
 - Documentação através do Swagger
-- Testes utilizando cURL
+- Testes utilizando cURl
+- Testes utilizando o Postman
 
 ## Severidades
 
