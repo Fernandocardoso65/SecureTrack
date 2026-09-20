@@ -2,7 +2,7 @@
 
 REST API desenvolvida em ASP.NET Core para gerenciamento de incidentes de segurança da informação.
 
-Projeto de portfólio com foco em desenvolvimento backend, APIs REST, persistência de dados, validação de entrada e códigos HTTP.
+Projeto com foco em estudos para desenvolvimento backend, APIs REST, persistência de dados, validação de entrada e códigos HTTP.
 
 ## Tecnologias
 
